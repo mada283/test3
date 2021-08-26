@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My test page</title>
+  </head>
+  <body>
+  <h1>CANI DI RAZZA</h1>
+  <h2>PASTORE TEDESCO</h2>
+    <img src="file:///C:/Madalina/WEB%20site/test/images/CANE.jpg" alt="My test image">
+	<p>Il Pasotore Tedesco è un cane carino con origini che non conosco ma suppongo vengano dalla Germainia</p>
+	<p>Mi piacciono molto anche se non so praticamente nulla di loro</p>
+	<u1>
+	<li>carini</li>
+	<li>coccolosi</li>
+	<li>divertenti</li>
+	</u1>
+	<a> herf="https://en.wikipedia.org/wiki/German_Shepherd">pastori tedeschi</a>
+  </body>
+</html>
